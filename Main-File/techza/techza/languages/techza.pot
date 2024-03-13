@@ -1,0 +1,634 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Techza\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-20 09:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n" 
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: techza"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid " "
+msgstr ""
+
+#: inc/classes/Techza_Main.php:257
+msgid " Current job openings"
+msgstr ""
+
+#: inc/template-tags.php:70 inc/template-tags.php:94
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "1"
+msgstr ""
+
+#. 1: title.
+#: comments.php:52
+msgid "1 Response on this post"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:269
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+msgid "404 Error!"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A premium WordPress theme for Crypto, Startup, NFT Landing and many more"
+msgstr ""
+
+#: inc/widgets.php:21
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-options.php:503
+msgid "Advanced"
+msgstr ""
+
+#: inc/demo-setup.php:28 inc/demo-setup.php:46 inc/demo-setup.php:65
+msgid "After you import this demo, you will have to setup the nav menu."
+msgstr ""
+
+#: inc/classes/Techza_Main.php:285
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/classes/Techza_Main.php:288
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/theme-options.php:430
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/theme-options.php:418
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme-options.php:396
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options.php:411
+msgid "Blog Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:404
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:237 inc/acf.php:29
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme-options.php:349
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options.php:547 inc/classes/Techza_Main.php:255
+msgid "Case Study"
+msgstr ""
+
+#: inc/theme-options.php:419
+msgid "Choose the layout you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:472
+msgid "Choose the layout you want in single pages"
+msgstr ""
+
+#: inc/theme-options.php:431
+msgid "Choose the number of column you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:311
+msgid "Choose the site Dark logo"
+msgstr ""
+
+#: inc/theme-options.php:302
+msgid "Choose the site logo"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:291
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:118
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/theme-options.php:442
+msgid "Continue Reading Button Title"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/single/team.php:32 template-parts/single/post.php:50
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-options.php:593
+msgid "Copyright"
+msgstr ""
+
+#: inc/template-functions.php:212
+msgid "Copyright 2023, All Rights Reserved"
+msgstr ""
+
+#: inc/theme-options.php:535
+msgid "Crypto Currency"
+msgstr ""
+
+#: inc/theme-options.php:570
+msgid "CSS Code"
+msgstr ""
+
+#: inc/theme-options.php:562
+msgid "Custom Css"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:121 template-parts/contents/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:135
+msgid "Email address"
+msgstr ""
+
+#: inc/theme-options.php:230
+msgid "Enable Preloader?"
+msgstr ""
+
+#: inc/theme-options.php:443
+msgid "Enter the button text for continue reading button."
+msgstr ""
+
+#: inc/classes/Techza_Main.php:289
+msgid "Error 404"
+msgstr ""
+
+#: inc/acf.php:332
+msgid "Exclude On"
+msgstr ""
+
+#: inc/acf.php:313
+msgid "Exclude Rules"
+msgstr ""
+
+#: inc/theme-options.php:583
+msgid "Footer"
+msgstr ""
+
+#. Name of the theme
+msgid "Techza"
+msgstr ""
+
+#: inc/theme-options.php:585
+msgid "Techza footer settings!"
+msgstr ""
+
+#: inc/theme-options.php:49 inc/theme-options.php:50
+msgid "Techza Options"
+msgstr ""
+
+#: inc/acf.php:13
+msgid "General"
+msgstr ""
+
+#: inc/theme-options.php:222
+msgid "General Settings"
+msgstr ""
+
+#: template-parts/headers/header-style-1.php:57
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-options.php:405 inc/theme-options.php:412
+msgid "Give any breadcrumb page title for the blog page."
+msgstr ""
+
+#: inc/theme-options.php:465
+msgid "Give any breadcrumb page title for the single article page."
+msgstr ""
+
+#: inc/theme-options.php:594
+msgid "Give the copyright text"
+msgstr ""
+
+#: 404.php:24
+msgid "Go back to home"
+msgstr ""
+
+#: inc/theme-options.php:494
+msgid "Google Maps Api"
+msgstr ""
+
+#: inc/acf.php:44
+msgid "Header"
+msgstr ""
+
+#: inc/acf.php:229
+msgid "Header Footer Include/Exclude Permission"
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options.php:371
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:283
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mthemeus.com/demos/wp/techza"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/mthemeus"
+msgstr ""
+
+#: inc/acf.php:252
+msgid "Include On"
+msgstr ""
+
+#: inc/acf.php:233
+msgid "Include Rules"
+msgstr ""
+
+#: inc/theme-options.php:486
+msgid "Integrations"
+msgstr ""
+
+#: template-parts/contents/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-options.php:553
+msgid "Job"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:104
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:91
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: comments.php:91
+msgid "Load more comments"
+msgstr ""
+
+#: inc/theme-options.php:294 inc/theme-options.php:301 inc/acf.php:61
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options.php:319
+msgid "Logo Max Width (Desktop)"
+msgstr ""
+
+#: inc/theme-options.php:329
+msgid "Logo Max Width (Mobile)"
+msgstr ""
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: inc/theme-options.php:541
+msgid "Mega Menu"
+msgstr ""
+
+#. Author of the theme
+msgid "mthemeus"
+msgstr ""
+
+#: comments.php:131
+msgid "Name"
+msgstr ""
+
+#: single.php:55
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/contents/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:253
+msgid "Our Blog"
+msgstr ""
+
+#: inc/theme-options.php:406
+msgid "Our blog"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:263
+msgid "Our Products"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:290
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/acf.php:9
+msgid "Page Options"
+msgstr ""
+
+#: inc/acf.php:279 inc/acf.php:359
+msgid "Pages"
+msgstr ""
+
+#: template-parts/contents/content-page.php:22
+#: template-parts/single/post.php:64
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options.php:571
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Pick a color for headings."
+msgstr ""
+
+#: inc/theme-options.php:280
+msgid "Pick a color for texts."
+msgstr ""
+
+#: inc/theme-options.php:238
+msgid "Pick a color for the body."
+msgstr ""
+
+#: inc/theme-options.php:248 inc/theme-options.php:258
+msgid "Pick a color for the theme."
+msgstr ""
+
+#: inc/theme-options.php:511
+msgid "Portfolio"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/acf.php:149
+msgid "Post Page Layout"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:70
+msgid "Posted in:"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:287
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: single.php:54
+msgid "Previous post:"
+msgstr ""
+
+#: inc/theme-options.php:247
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-options.php:444 template-parts/contents/content.php:92
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-options.php:413
+msgid "Read our latest blog posts."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/contents/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:58
+#, php-format
+msgctxt "Responses title"
+msgid "%1$s Response on this post"
+msgid_plural "%1$s Responses on this post"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/Techza_Main.php:286
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:267
+msgid "Search results for: "
+msgstr ""
+
+#: inc/theme-options.php:257
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/acf.php:172
+msgid "Select Custom Layout"
+msgstr ""
+
+#: inc/acf.php:96
+msgid "Select Logo"
+msgstr ""
+
+#: inc/theme-options.php:517
+msgid "Service"
+msgstr ""
+
+#: inc/theme-options.php:495
+msgid "Set the google map api."
+msgstr ""
+
+#: inc/theme-options.php:320
+msgid "Set the logo maximum width size for desktop in px unit"
+msgstr ""
+
+#: inc/theme-options.php:330
+msgid "Set the logo maximum width size for mobile in px unit"
+msgstr ""
+
+#: inc/theme-options.php:366
+msgid "Set typography for body"
+msgstr ""
+
+#: inc/theme-options.php:388
+msgid "Set typography for heading"
+msgstr ""
+
+#: inc/classes/Techza_Main.php:284
+msgid "Shop"
+msgstr ""
+
+#: inc/theme-options.php:449
+msgid "Show Excerpt?"
+msgstr ""
+
+#: inc/theme-options.php:505
+msgid "Show/Hide Options! ( K.A Custom Post )"
+msgstr ""
+
+#: inc/theme-options.php:456
+msgid "Single Page"
+msgstr ""
+
+#: inc/theme-options.php:471
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/theme-options.php:464
+msgid "Single Page Title"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/contents/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/contents/content.php:43
+msgid "Sticky"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:94
+msgid "Tagged:"
+msgstr ""
+
+#: inc/theme-options.php:523
+msgid "Team"
+msgstr ""
+
+#: inc/theme-options.php:529
+msgid "Testimonial"
+msgstr ""
+
+#: inc/theme-options.php:279
+msgid "Text Color"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"The page you are looking for is not available or doesn’t belong to this "
+"website!"
+msgstr ""
+
+#: inc/theme-options.php:198
+msgid "Theme activated succeessfully!!"
+msgstr ""
+
+#: inc/theme-options.php:205
+msgid "Theme are not activated"
+msgstr ""
+
+#: inc/theme-options.php:174
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/theme-options.php:179
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/theme-options.php:186
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:175 inc/theme-options.php:180
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:155
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: inc/theme-options.php:159
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+
+#: searchform.php:2
+msgid "Type to search"
+msgstr ""
+
+#: inc/theme-options.php:342
+msgid "Typography"
+msgstr ""
+
+#: inc/acf.php:77
+msgid "Use Custom Logo"
+msgstr ""
+
+#: inc/acf.php:153
+msgid "Use Custom Page Layout?"
+msgstr ""
+
+#: inc/theme-options.php:310
+msgid "White Logo"
+msgstr ""
+
+#: inc/theme-options.php:231
+msgid "Wish to use preloader?"
+msgstr ""
+
+#: comments.php:126
+msgid "Write your comment"
+msgstr ""
